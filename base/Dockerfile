@@ -1,5 +1,5 @@
 FROM debian:wheezy
-MAINTAINER MeteorHacks Pvt Ltd.
+MAINTAINER M-SQUARE Pty Ltd.
 
 ENV METEORD_DIR /opt/meteord
 COPY scripts $METEORD_DIR
