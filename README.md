@@ -1,8 +1,9 @@
 ## Note: Upgraded to Node 6.9.2 LTS
 
-This fork only upgraded the NodeJS version to 6.9.2 LTS
+This fork only upgraded the NodeJS version to 6.9.2 LTS along with a tiny workaround for binbuild.
+All credits belong to https://github.com/msquareau/meteord
 
-[![Circle CI](https://circleci.com/gh/msquare/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/msquare/meteord/tree/master)
+[![CircleCI](https://circleci.com/gh/msquareau/meteord.svg?style=svg)](https://circleci.com/gh/msquareau/meteord)
 ## MeteorD - Docker Runtime for Meteor Apps
 
 There are two main ways you can use Docker with Meteor apps. They are:
