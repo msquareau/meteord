@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie
 MAINTAINER M-SQUARE Pty Ltd.
 
 ENV METEORD_DIR /opt/meteord
