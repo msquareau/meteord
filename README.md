@@ -1,7 +1,6 @@
 ## Note: Upgraded to Node 6.9.2 LTS
 
-This fork only upgraded the NodeJS version to 6.9.2 LTS along with a tiny workaround for binbuild.
-All credits belong to https://github.com/msquareau/meteord
+This fork only upgraded the NodeJS version to 6.9.2 LTS along with a tiny workaround for binbuild. Base OS image is upgraded to debian:jessie.
 
 [![CircleCI](https://circleci.com/gh/msquareau/meteord.svg?style=svg)](https://circleci.com/gh/msquareau/meteord)
 ## MeteorD - Docker Runtime for Meteor Apps
