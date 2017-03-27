@@ -1,6 +1,6 @@
-## Note: Upgraded to Node 6.9.5 LTS
+## Note: Upgraded to Node 6.9.10 LTS
 
-This fork only upgraded the NodeJS version to 6.9.5 LTS along with a tiny workaround for binbuild. Base OS image is upgraded to debian:jessie.
+This fork only upgraded the NodeJS version to 6.9.10 LTS along with a tiny workaround for binbuild. Base OS image is upgraded to debian:jessie.
 
 ## MeteorD - Docker Runtime for Meteor Apps
 
